@@ -8,4 +8,9 @@ Skills
 ==========
 * HTML/CSS/JS
 * PHP/SQL
+<<<<<<< HEAD
 * Git
+=======
+* Git
+* Killing history using git rebase
+>>>>>>> Fix: comment
